@@ -1,5 +1,7 @@
 # gsap-2
+<img width="1916" height="813" alt="Image" src="https://github.com/user-attachments/assets/3bd6fcc1-9097-4b20-88f4-17a6b22a8751" />
 
+<img width="1917" height="814" alt="Image" src="https://github.com/user-attachments/assets/f23c0aac-35ba-4bec-8745-2470889937d1" />
 
 
 - Developed by hiva dargazani
